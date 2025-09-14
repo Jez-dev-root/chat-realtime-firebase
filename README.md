@@ -1,12 +1,17 @@
-# React + Vite
+# Chat Realtime con Firebase
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto simple de chat en tiempo real construido con **React + Vite** y **Firebase (Firestore)**.  
 
-Currently, two official plugins are available:
+Se desarrolló como parte de un ejercicio académico / portafolio para practicar:
+- Conexión de una aplicación frontend con Firebase.
+- Uso de Firestore como base de datos en tiempo real.
+- Lectura y escritura de datos con POST y GET.
+- Despliegue en un entorno de producción gratuito.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tecnologías utilizadas
+- React + Vite
+- Firebase (Firestore)
+- Git & GitHub para control de versiones
+- Vercel / Netlify / Firebase Hosting (para despliegue)
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
